@@ -1,2 +1,2 @@
-# data-science-FA-2020
-NINJA work for Data Science course at Olin College, Fall 2020
+# Data Science Fall 2020
+I'm Arwen, and I'm NINJA-ing ("Need Information Now? Just Ask!", Olin's version of a course assistant) Olin's Data Science class of Fall 2020!
